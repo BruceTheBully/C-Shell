@@ -2,7 +2,7 @@
 Control 'F:. .'
 reg-int
 .pk
-*<nav>~
+'*<nav>~
   
   
   
@@ -11,3 +11,4 @@ reg-int
   
   [dir]
   
+'
