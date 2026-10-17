@@ -1,1 +1,3 @@
-delimit
+delimit 0,1
+from 0
+goto 1
