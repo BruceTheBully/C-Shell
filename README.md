@@ -2,7 +2,7 @@
 Control 'F:. .'
 reg-int
 .pk
-*"<nav>"~
+*< .nav>~
   
   
   
